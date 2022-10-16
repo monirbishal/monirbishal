@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monirbishal
 - 👀 I’m interested in creating Modern Web
-- 🌱 I’m currently learning mordern website build with Three JS.
+- 🌱 I’m currently learning mordern website building with Three JS, WebGL.
 - 💞️ I’m looking to collaborate on the creative and modern web presentation.
 - 📫 How to reach me: monirbishal1@gmail.com or monirbishal.com
 
