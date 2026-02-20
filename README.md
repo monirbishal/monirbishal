@@ -1,9 +1,4 @@
-**Web Alchemist 🪄: Crafting magic with code (@monirbishal)**
-
-Building interactive experiences that push the web's boundaries. ✨ Love **Three.js, Svelte Kit, Tailwind CSS & Laravel**.
-
-Let's collaborate!   Reach out: [monirbishal.com](https://monirbishal.com/) or monirbishal1@gmail.com
-
+Full Stack Engineer who owns end-to-end solutions, specializing in SvelteKit, PHP, and pioneering AI, hardware integration.
 <!---
 monirbishal/monirbishal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
